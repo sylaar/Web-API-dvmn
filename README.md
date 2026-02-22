@@ -34,3 +34,4 @@ pip install -r requirements.txt
 cd lesson_2
 python3 script.py https://dvmn.org/
 ```
+<img width="628" height="84" alt="Снимок экрана 2026-02-22 в 20 25 16" src="https://github.com/user-attachments/assets/5a826e61-824c-4376-8d49-57213dd02ad7" />
