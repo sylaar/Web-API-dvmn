@@ -4,13 +4,13 @@
 
 ### Как установить
 
-Создать приложение:
+Создать приложение:  
 [dev.vk.com](https://dev.vk.com/ru/admin/created-apps-list?nocode=true)
 
-Перейти в настркойки приложения:
-[dev.vk.com](https://dev.vk.com/ru/admin/app-settings/{YOUR_APP_ID}/info)
+Перейти в настркойки приложения:  
+https://dev.vk.com/ru/admin/app-settings/{YOUR_APP_ID}/info
 
-В меню "Разработка" выбрать "Ключи доступа"
+В меню "Разработка" выбрать "Ключи доступа"  
 [dev.vk.com](https://dev.vk.com/ru/admin/app-settings/{YOUR_APP_ID}/info/keys)
 
 Скопировать "Сервисный ключ" - это и есть VK_TOKEN, используемый в данном скрипте.
@@ -29,7 +29,8 @@ pip install -r requirements.txt
 
 ```
 git clone https://github.com/sylaar/dvmn.git
-cd lesson_2
 pip install -r requirements.txt
+cd lesson_2
 ```
+
 `python3 script.py https://dvmn.org/`
